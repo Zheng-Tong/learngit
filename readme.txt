@@ -3,5 +3,10 @@ wish I will learn happly.
 this is my first modify.
 this is my second modify.
 this is my thired modify.
-creating a new branch is quick & simple.
+<<<<<<< HEAD
+creating a new branch is quick and simple.
+=======
+creating a new branch is quick and simple.
+
+>>>>>>> feature1
 
